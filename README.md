@@ -1,5 +1,4 @@
 # platformGame
-learning platform game 
 There is a map in which we have 1 character and a few enemies.
 When our character dies, it scatters blood effect.
 It can also shoot at enemies.
